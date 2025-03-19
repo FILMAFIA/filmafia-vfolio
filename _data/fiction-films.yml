@@ -9,7 +9,7 @@
 # we just need to enter the videoID from the video link.
 - videotitle: Sample Video (2019)
   videodescription: This is a sample video description. Enter your desciption here using 'fiction-films.yml' in '_data' folder.
-  contrib: Producer | Writer | Director | Editor
+  contrib: Producer | Writer | Director | Editorr
   Awards:
     - award: "- Winner - Bronze Award for Best Sample Short at Jekyll-Vfolio Awards (2018)."
     - award: "- Official Selection - Jekyll-Vfolio Festival (2017)."
