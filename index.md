@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jekyll-Vfolio homepage
+title: filmafia homepage
 ---
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
