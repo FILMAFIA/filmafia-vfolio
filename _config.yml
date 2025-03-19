@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll-Vfolio
-email:
-author: Ravi Gupta
-description: Jekyll-Vfolio is a jekyll theme for showcasing a film/video/cinematography portfolio. You may edit it to suit your needs as well.
-url: "http://127.0.0.1:4000/" # The base hostname & protocol for your website. Right now its set for local development. Please change it at the time of deployment.
-baseurl: /
+title: FILMAFIA
+email: filmafiaofficial@gmail.com
+author: Gene Vallotton
+description: ESTUDIO CREATIVO 🎞️, "documentando historias desde 2022" 📹
+url: "https://filmafia.github.io" # The base hostname & protocol for your website. Right now its set for local development. Please change it at the time of deployment.
+baseurl: /filmafia-vfolio
 # The baseurl or the directory from where the site is hosted. Right now its set for the root directory. In case of GitHub Pages add '/repo-name' in front of 'baseurl:' without the quotes.
 # For example -
 # baseurl: /jekyll-vfolio
@@ -33,9 +33,9 @@ sass:
 
 # Social icons
 show_social_icons: true
-facebook_username: wowtheskyisblue
-youtube_username: channel/UChuSOIbZWOOapXTjtw33opw
-instagram_username: wowtheskyisblue
+facebook_username: Filmafia
+youtube_username: channel/FILMAFIA
+instagram_username: filmafia_
 
 # Plugins
 plugins: [jekyll-paginate]
