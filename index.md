@@ -3,7 +3,7 @@ layout: default
 title: filmafia homepage
 ---
 <div class="jumbotron jumbotron-fluid">
-  <div class="container">
+  <div class="containe bg-dark text-white p-4 rounded shadow">
     {% if site.data.index.title %}
     <h1 class="text-center text-title font-weight-bold">{{ site.data.index.title }}</h1>
     {% endif %}
