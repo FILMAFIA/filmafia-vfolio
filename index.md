@@ -8,7 +8,9 @@ title: filmafia homepage
     <h1 class="text-center text-title font-weight-bold">{{ site.data.index.title }}</h1>
     {% endif %}
     <p class="text-center lead">{{ site.data.index.para1 }}</p>
-    <p> <img src="assets/images/the_best_1/DSC07676_cropped.jpg" alt="cover" class="" height="300"></p>
+    <p class="text-center"> 
+      <img src="assets/images/the_best_1/DSC07676_cropped.jpg" alt="cover" class="d-block mx-auto" height="300">
+    </p>
     <p class="text-center lead">{{ site.data.index.para2 }}</p><br>
   </div>
 </div>
