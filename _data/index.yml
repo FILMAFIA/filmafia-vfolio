@@ -15,3 +15,7 @@ creditlinks:
   - linkinfo: #and
     linkaddress: "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
     linktext: Bootstrap v4.3.1
+  - linkinfo: #and
+    linkaddress: "https://github.com/ravigupta-art/jekyll-vfolio"
+    linktext: jekyll-vfolio
+
