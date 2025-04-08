@@ -11,6 +11,12 @@ title: News
 - #### 13 AUG,20 - [jekyll-vfolio is used and customised by ALTBACK to create their site.](https://altback.com/)
 
 
+<head>
+    <link rel="stylesheet" href="style/gallery.css">
+    <script type="text/javascript" src="js/galeria.js"></script>
+</head>
+
+
 <body>
  <!----------------- GALERÍA --------------------->
             <!-- Slideshow container -->
