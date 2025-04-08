@@ -10,6 +10,9 @@ creditlinks:
     linkaddress: "https://github.com/MaximilianoVM"
     linktext: Max
   - linkinfo: Powered by
+    linkaddress: #"https://jekyllrb.com/"
+    linktext: #Jekyll
+  - linkinfo: #Powered by
     linkaddress: "https://jekyllrb.com/"
     linktext: Jekyll
   - linkinfo: #and
