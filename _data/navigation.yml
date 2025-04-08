@@ -3,19 +3,19 @@
   sublinks:
    - sublink_name: Film Reel
      sublink_addr: /film-reel.html
-   - sublink_name: Fiction Films
+   - sublink_name: Proyectos Audiovisuales
      sublink_addr: /fiction-films.html
-   - sublink_name: Non-fiction Films
+   - sublink_name: Diseño Creativo
      sublink_addr: /non-fiction-films.html
-- name: News
+- name: Historia
   link: /news.html
   sublink: false
 - name: More
   sublink: true
   sublinks:
-   - sublink_name: Awards & Recognition
+   - sublink_name: Eventos
      sublink_addr: /awards-and-recognition.html
-   - sublink_name: Contact
+   - sublink_name: Contacto
      sublink_addr: /contact.html
 - name: Blog
   link: /blog/
