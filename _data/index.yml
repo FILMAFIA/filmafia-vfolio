@@ -2,19 +2,16 @@
 # and this link: https://jekyllrb.com/docs/datafiles/
 title: About FILMAFIA
 para1: FILMAFIA es un estudio creativo fundado en 2022.  <br> Especializados en Medios Audiovisuales y Fotografía, dedicados a apoyar y promover el arte local.
-para2: The FILMAFIA website is developed by <a href="https://github.com/MaximilianoVM">Max</a>. 
+# para2: The FILMAFIA website is developed by <a href="https://github.com/MaximilianoVM">Max</a>. 
 # If you do not need Credits for this page, just keep the values empty. You may also simply delete the lines that follows.
 credittitle: CREDITS&#58;
 creditlinks:
-  - linkinfo: Static Site Generator
+  - linkinfo: The FILMAFIA website is developed by
+    linkaddress: "https://github.com/MaximilianoVM"
+    linktext: Max
+  - linkinfo: Powered by
     linkaddress: "https://jekyllrb.com/"
     linktext: Jekyll
-  - linkinfo: Framework
+  - linkinfo: #and
     linkaddress: "https://getbootstrap.com/docs/4.3/getting-started/introduction/"
     linktext: Bootstrap v4.3.1
-  - linkinfo: Fonts
-    linkaddress: "https://fonts.google.com/"
-    linktext: Google Fonts
-  - linkinfo: Icons
-    linkaddress: "https://fontawesome.com/"
-    linktext: Font Awesome
